@@ -1,0 +1,11 @@
+name = "parimatch-casino-odesa-ua"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=parimatch-casino.odesa.ua"
+HMAC_KEY = "b6e649061d7e3ee2f2551c9714ac44535ea51a65016d03747b1f42b3c3bbcf0b"
+COOKIE_NAME = "xtv"
+PLAY_PATH = "join-now"
+BUTTON_ID = "p04182f8d7e1ba84b497cd86eba744e97"
+GATE_SALT = "67c16b880bd475e3"
